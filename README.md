@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 12/5/24
+### DATE: 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -57,8 +57,8 @@ Heat Treatment of 3D printed part
 ![287459462-a2228326-6899-4760-9b7f-dbf2334505da](https://github.com/SHARIKA818/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139834761/ee5ef96b-6261-484c-a8e3-e736b2cd84dd)
 ![287459476-7c451afd-ba8c-4935-95cb-1cb6f2c622e5](https://github.com/SHARIKA818/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139834761/45e87906-57ae-4e24-9d9b-7d2ed081fb80)
 
-### Name: Sharika R
-### Register Number: 212223230204
+### Name: CHANDRASEKAR S
+### Register Number: 212222230025
 
 ## Result: 
 Thus the simulation on the Postprocessing in additive manufacturing is completed.
